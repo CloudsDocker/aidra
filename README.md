@@ -15,6 +15,8 @@ Fill in a secret value in the `.env` file.
 
 For local development, use this random string as an appropriate value:
 
+
+
 ```shell
 SECRET_KEY=123abc
 ```
